@@ -1,0 +1,20 @@
+.footer{
+    height: 100px;
+}
+.social-links a{
+    color: lightslategray;
+    font-size: 25px;
+    margin: 10px;
+}
+.social-links a:nth-child(1):hover{
+    color: #0e76a8;
+}
+.social-links a:nth-child(2):hover{
+    color: #171515;
+}
+.social-links a:nth-child(3):hover{
+    color: #00acee;
+}
+.social-links a:nth-child(4):hover{
+    color:#3b5998
+}
