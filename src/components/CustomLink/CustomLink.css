@@ -1,0 +1,9 @@
+nav{
+    height: 80px;
+}
+nav a{
+    padding-left: 10px;
+}
+.website-name a:active{
+    color: transparent;
+}
