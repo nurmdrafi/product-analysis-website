@@ -8,13 +8,21 @@
 }
 .social-links a:nth-child(1):hover{
     color: #0e76a8;
+    font-size: 27px;
+    margin-bottom: 5px;
 }
 .social-links a:nth-child(2):hover{
     color: #171515;
+    font-size: 27px;
+    margin-bottom: 5px;
 }
 .social-links a:nth-child(3):hover{
     color: #00acee;
+    font-size: 27px;
+    margin-bottom: 5px;
 }
 .social-links a:nth-child(4):hover{
-    color:#3b5998
+    color:#3b5998;
+    font-size: 27px;
+    margin-bottom: 5px;
 }
