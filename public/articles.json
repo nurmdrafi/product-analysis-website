@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "question": "What is the difference between, inline, inline-block and block elements?",
+    "question": "What is the difference between inline, inline-block and block elements?",
     "answer": [
       "inline: An inline element is as the name implies inline with other elements. It only takes up as much space as it needs. However you can't set a height or a width for an inline element - it will just be ignored.",
 
