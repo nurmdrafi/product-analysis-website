@@ -1,0 +1,10 @@
+nav{
+    height: 80px;
+}
+nav h3{
+    margin-bottom: 1.5rem;
+}
+.logo{
+    text-align: center;
+    font-size: 1.1em;  
+}
