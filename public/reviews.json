@@ -2,42 +2,42 @@
   {
     "id": "review-1",
     "name": "Tom Cruise",
-    "picture": "../src/assets/images/users/user-1.jpg",
+    "picture": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
     "description": "I recently purchased a Rolex , first time I have done business with them. Absolute top-notch customer service from the time I sent my first email to the ultra fast delivery. The watch was in the precise condition as represented and described. I am truly happy having met this company and would not hesitate to purchase from them at any time.",
     "rating": 5
   },
   {
     "id": "review-2",
     "name": "Robert Downey Jr",
-    "picture": "../src/assets/images/users/user-2.jpg",
+    "picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
     "description": "Excellent service, fast responses, product delivered as expected. Have bought items multiple times and very happy with services. Communications are exceptional.",
     "rating": 3.5
   },
   {
     "id": "review-3",
     "name": "Chris Hemsworth",
-    "picture": "../src/assets/images/users/user-3.jpg",
+    "picture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
     "description": "I have made two purchases now of difficult to find/rare watches. I am very pleased with both transactions. Each of the watches were delivered on time and the quality of the watches exceeded my expectations. They were also exactly what I wanted and were in like new condition. One of them looks like it has never been worn.I can highly recommend World's Best! I will use them again at some point in the future!",
     "rating": 4
   },
   {
     "id": "review-4",
     "name": "Nick Jonas",
-    "picture": "../src/assets/images/users/user-4.jpg",
+    "picture": "https://images.unsplash.com/photo-1640951613773-54706e06851d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
     "description": "Well the watch is definitely oversized. I couldn't find any photos on the internet so I was little bit surprised how it looks in real life. I couldn't imagine this watch on men because for me it's associated with a woman. I would say that this unisex watch will fit for a strong personality because it's beautiful and impressive.",
     "rating": 5
   },
   {
     "id": "review-5",
     "name": "Black Widow",
-    "picture": "../src/assets/images/users/user-5.jpg",
-    "description": "Excellent service from Robert to source my Rolex Daytona. Was concerned re wire transfer as not dealt with the company before but all well. Watch secured within 2 weeks and then held and shipped to my preferred location in USA via secure fedex and their waiting for me in the day stated. Excellent would use the service again",
+    "picture": "https://images.unsplash.com/photo-1542157585-ef20bfcce579?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=522&q=80",
+    "description": "Excellent service from Robert to source my Rolex Daytona. Was concerned re wire transfer as not dealt with the company before but all well. Watch secured within 2 weeks and then held and shipped to my preferred location in USA via secure fedex and their waiting for me in the day stated. Excellent would use the service again.",
     "rating": 4
   },
   {
     "id": "review-6",
     "name": "Will Smith",
-    "picture": "../src/assets/images/users/user-6.jpg",
+    "picture": "https://images.unsplash.com/photo-1614807547811-4174d3582092?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=532&q=80",
     "description": "I was interested in a, pre-owned, gold, fairly uncommon Patek Philippe watch I saw on the website. Robert answered my questions over the phone. The watch arrived beautifully packaged and was pristine. It is an expensive model but this one was a decent price. Transaction was easy, great communication, and I love my watch.",
     "rating": 4.5
   }

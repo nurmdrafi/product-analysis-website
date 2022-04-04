@@ -4,7 +4,7 @@ import { BsLinkedin, BsGithub, BsTwitter, BsFacebook } from "react-icons/bs";
 
 const Footer = () => {
   return (
-    <div className="footer d-flex flex-column justify-content-center mt-auto">
+    <div className="footer d-flex flex-column justify-content-center mt-auto mb-2">
       <div className="social-links d-flex justify-content-center my-3">
         <a target="blank" href="https://www.linkedin.com/in/nurmdrafi/">
           <BsLinkedin></BsLinkedin>
