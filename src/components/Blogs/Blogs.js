@@ -10,8 +10,8 @@ const Blogs = () => {
         .then(data => setBlogs(data))
     }, [])
     return (
-        <div className='container'>
-            <h1 className='text-center'>Q &#38; A</h1>
+        <div className='container blogs'>
+            <h1 className='text-center text-primary text-opacity-75'>Q &#38; A</h1>
             {
                 blogs.map(article => <Article key={article.id} article={article}></Article>)
             }

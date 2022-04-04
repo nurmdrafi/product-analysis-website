@@ -1,25 +1,31 @@
 [
   {
     "id": 1,
-    "question": "What is the purpose of the Context API?",
+    "question": "What is the Context API?",
     "answer": [
-      "The Context API of React, which is a built-in API introduced in React 16.3, is a solution to provide global variable or state in the whole React App. Without Context API, generally we pass the state to 'props drilling' or passing props from grandparent to child to parent, and if we have a lots of component, then it's very annoying and time spending task.",
+      "The Context API is a component structure provided by the React framework, which enables us to share specific forms of data across all levels of the application. It’s aimed at solving the problem of prop drilling.",
+
+      "Prop drilling is basically a situation when the same data is being sent at almost every level due to requirements in the final level.",
 
       "A context contains references to variables and notifies its consumers when these references are changed. We create context container with React.createContext(). The context object exposes with a provider that has a prop named 'value'. We generally consume that with 'useContext' hook."
     ]
   },
   {
-    "id": 1,
+    "id": 2,
     "question": "What's the semantic tag?",
     "answer": [
-        "The word semantic is anything related to meaning. According to this definition, An HTML semantic element is an element with some type of meaning.An example of semantic elements are \"form\", \"main\" \"article\" and \"Nav\".These elements are semantic because they define some specific portion of the webpage. Like, when we use \"main\" tag, that means the main part of the webpage is here in the 'main' tag.", "The HTML semantic tag gives us three main benefits like below. It give us simultaneously 'Easier to reading code', 'Greater accessibility' and 'consistent coding'"
+      "HTML Semantic tags introduce meaning to the web page rather than just presentation. A semantic tag clearly describes its meaning to both browser and developer. Semantic tags have many advantages over non-semantic tags like semantic tags are of great help to screen readers and they also help in code optimization. An example of semantic elements are \"form\", \"main\" \"article\" and \"nav\"."
     ]
   },
   {
-    "id": 1,
+    "id": 3,
     "question": "What is the difference between, inline, inline-block and block elements?",
-    "answer":[
-        "Inline, inline-block and block, all these are properties of the display. These properties play a huge role in the design of a website.", "Inline elements do not start a new line. It takes only width as much as its content. Developer can not set width, height. An element accept margin and padding, therefore the element still sits inline as we expect, margin and padding only push elements horizontally, not vertically.Example of inline elements are 'span', 'em' etc.", "Inline-block elements the same thing as inline. Although, we can set height and width, it takes only width as much as its content like inline by default. Developer can set width, height, margin and padding.", "Block elements do not start a new line because it takes full width of the container. Developer can apply width, height, margin and padding. Example of inline elements are 'div', 'section', 'ul' etc."
+    "answer": [
+      "inline: An inline element is as the name implies inline with other elements. It only takes up as much space as it needs. However you can't set a height or a width for an inline element - it will just be ignored.",
+
+      "inline-block: inline-block elements are very similar to inline elements, so they also just take up as much space as they need and elements can be to their left and right because they are 'inline'. In contrast to inline elements you can set a height and a width.",
+
+      "block: Block elements by default take up as much horizontal space as they can get and by that they force a line break after them."
     ]
   }
 ]

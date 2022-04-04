@@ -5,7 +5,7 @@ const {question, answer} = article;
 
     return (
         <div>
-            <h2>{question}</h2>
+            <h2 className='pt-3 text-primary text-opacity-75'>{question}</h2>
             {
                 answer.map((ans, idx) => <p key={idx}>{ans}</p>)
             }
