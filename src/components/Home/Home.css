@@ -1,17 +1,21 @@
+.home{
+min-height: calc(100vh - 200px);
+}
 .banner{
-    background-image: url('../../assets/images/banner.webp');
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    width: 100%;
-    min-height: 60vh;
+    
+    
 }
 
 .banner-text{
     min-height: 350px;
-    padding-left: 15px;
 }
 .banner-text h1{
     font-size: 50px;
+}
+.banner-picture{
+    max-width: 300px;
+    max-height: 300px;
+}
+.banner-picture img{
+    width: 100%;
 }
