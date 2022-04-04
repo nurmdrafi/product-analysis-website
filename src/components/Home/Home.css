@@ -2,10 +2,8 @@
 min-height: calc(100vh - 200px);
 }
 .banner{
-    
-    
+    min-height: calc(100vh - 100px);
 }
-
 .banner-text{
     min-height: 350px;
 }
