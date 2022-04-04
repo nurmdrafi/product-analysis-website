@@ -20,7 +20,7 @@ const Footer = () => {
         </a>
       </div>
       <p className="text-center text-muted fw-bold">
-        All Rights Reserved By © Website name | 2022-2026
+        All Rights Reserved By © WATCHES &#38; WONDERS | 2022-2026
       </p>
     </div>
   );
