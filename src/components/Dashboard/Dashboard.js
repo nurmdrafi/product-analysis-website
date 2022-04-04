@@ -23,11 +23,11 @@ const Dashboard = () => {
   return (
     <div className="dashboard container ">
       <h1 className="text-center">DashBoard</h1>
-      <div className="d-md-flex align-items-center my-5">
-        <div>
+      <div className="row my-5">
+        <div className="col-md-6 col-sm-12">
           <LineChart
-            width={500}
-            height={300}
+            width={400}
+            height={400}
             data={charts}
             margin={{ top: 5, right: 20, bottom: 5, left: 0 }}
           >
@@ -49,10 +49,10 @@ const Dashboard = () => {
           </h5>
         </div>
 
-        <div>
+        <div className="col-md-6 col-sm-12">
           <BarChart
-            width={500}
-            height={300}
+            width={400}
+            height={400}
             data={charts}
             margin={{
               top: 5,

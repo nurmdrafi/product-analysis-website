@@ -6,7 +6,7 @@ const ReviewDetails = ({data}) => {
     const {name, picture, description, rating} = data;
     console.log(picture)
     return (
-        <div className='review-details d-flex flex-column my-3 p-3'>
+        <div className='col review-details'>
             <img src={picture} alt="" />
             <p className='fw-bold mt-2'>{name}</p>
             <p><FaQuoteLeft />  {description}  <FaQuoteRight/></p>
